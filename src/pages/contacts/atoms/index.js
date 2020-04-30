@@ -1,0 +1,1 @@
+export {ContactStyle, ContactTitle, ContactSubTitle, ContactHeader,ContactHeaderTitle,BlockForPhoto, FormBlock, ContactInfo, AboutSocials} from './block';

@@ -1,0 +1,1 @@
+export {FooterStyle, FooterTitle, SocialStyle} from './block';
